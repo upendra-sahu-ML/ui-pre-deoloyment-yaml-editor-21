@@ -13,4 +13,4 @@ name: ui-pre-deoloyment-yaml-editor-21
 orig_name: ipfs
 sources:
 - https://github.com/ipfs/go-ipfs
-version: 0.2.2
+version: 0.0.1
